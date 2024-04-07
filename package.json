@@ -1,0 +1,41 @@
+{
+  "name": "auth-zen",
+  "version": "1.0.0",
+  "description": "Provides developers with an intuitive and straightforward authentication middleware, ensuring robust security without the complexity.",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sainikhil1605/auth-zen.git"
+  },
+  "keywords": [
+    "authentication",
+    "jwt",
+    "oauth",
+    "basic",
+    "API",
+    "Key",
+    "SAML"
+  ],
+  "author": "sainikhilvatti",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sainikhil1605/auth-zen/issues"
+  },
+  "homepage": "https://github.com/sainikhil1605/auth-zen#readme",
+  "devDependencies": {
+    "@types/jsonwebtoken": "^9.0.6",
+    "@types/node": "^20.12.5",
+    "@typescript-eslint/eslint-plugin": "^7.5.0",
+    "@typescript-eslint/parser": "^7.5.0",
+    "eslint": "^8.57.0",
+    "typescript": "^5.4.4"
+  },
+  "dependencies": {
+    "@types/express": "^4.17.21",
+    "express": "^4.19.2",
+    "jsonwebtoken": "^9.0.2"
+  }
+}
