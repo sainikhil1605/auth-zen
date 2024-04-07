@@ -1,6 +1,6 @@
 {
   "name": "auth-zen",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Provides developers with an intuitive and straightforward authentication middleware, ensuring robust security without the complexity.",
   "main": "dist/index.js",
   "scripts": {
